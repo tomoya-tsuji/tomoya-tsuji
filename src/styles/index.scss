@@ -1,0 +1,69 @@
+@import 'reset';
+@import 'color';
+
+html {
+  body {
+    font-family: "Work Sans",sans-serif, Helvetica-Light,HelveticaNeue-Light,Arial,Verdana,Roboto-Light,"游ゴシック Light","游ゴシック体",YuGothic,"メイリオ",Meiryo,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
+    width: 700px;
+    margin: 0 auto;
+    color: $black;
+    line-height: 2.2;
+    letter-spacing: .06em;
+    font-size: 14px;
+    padding: 40px 0;
+
+    h3 {
+      font-weight: 300;
+      font-size: 16px;
+      letter-spacing: 0.2em;
+      margin-top: 60px;
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      padding: 20px 0;
+      font-size: 36px;
+    }
+
+    .profile_image {
+      img {
+        width: 120px;
+        border-radius: 10px;
+      }
+    }
+
+    .name {
+      margin-bottom: 6px;
+    }
+
+    .career {
+      padding: 40px 0;
+      .years {
+        margin-right: 14px;
+        color: $light_gray;
+      }
+    }
+
+    li {
+      padding: 6px 0;
+      a {
+        color: $black;
+        &:hover {
+          color: $light_gray;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 480px) { 
+  html {
+    body {
+      padding: 26px;
+      width: 100%;
+      box-sizing: border-box;
+      text-align: justify;
+text-justify: inter-ideograph;
+    }
+  }
+}
