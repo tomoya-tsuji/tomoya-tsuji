@@ -67,6 +67,15 @@ export default () =>(
     </div>
 
     <div className="work_list">
+      <h3>s-dev talks(2018 - 現在)</h3>
+      <p className="works_description">
+        s-dev talksのイベント運営担当しています。ロゴやバナー、ウェブサイトなどデザイン周りは１人で行っています。
+      </p>
+      
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://sdevtalks.org/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fsdevtalks.org%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
+    </div>
+
+    <div className="work_list">
       <h3>シェアフル(2018)</h3>
       <p className="works_description">
         サービス立ち上げ時にUIやモーションロゴなどのデザインを行いました。
@@ -77,6 +86,14 @@ export default () =>(
           <a href="https://sharefull.com/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fsharefull.com%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a>
           </div>
       </div>
+    </div>
+
+    <div className="work_list">
+      <h3>FoodDataBank by SARAH(2018)</h3>
+      <p className="works_description">
+        ロゴ・LPのデザインを担当しました。
+      </p>
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://fooddatabank.net/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ffooddatabank.net%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
     </div>
 
     <div className="work_list">
@@ -91,6 +108,16 @@ export default () =>(
           </div>
       </div>
     </div>
+
+    <div className="work_list">
+      <h3>cookpad studio(2017)</h3>
+      <p className="works_description">
+        サービス立ち上げ時に、ロゴやLP、スタジオ内で使われるノベルティなどをデザインしました。
+      </p>
+      
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://info.cookpad.com/pr/news/press_2017_1129" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Finfo.cookpad.com%2Fpr%2Fnews%2Fpress_2017_1129&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
+    </div>
+
     <div className="work_list">
       <h3>mybest(2016)</h3>
       <p className="works_description">
