@@ -40,6 +40,20 @@ export default () =>(
     </div>
   
     <h2>Works</h2>
+
+    <div className="work_list">
+      <h3>たのしいキッチン(2020)</h3>
+      <p className="works_description">
+        サービスに関わるデザインすべてと、フロントエンド実装を担当しています。
+      </p>
+      
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style={{height: '140px'}}>
+          <a href="https://cookpad-kitchen.com/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fcookpad-kitchen.com%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
+        </div>
+      </div>
+    </div>
+
     <div className="work_list">
       <h3>たべドリ(2018)</h3>
       <p className="works_description">
