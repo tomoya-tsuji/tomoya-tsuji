@@ -26,7 +26,7 @@ export default () =>(
     <h1>TOMOYA TSUJI</h1>
     <p className="name">辻 朝也 / デザイナー</p>
     <p className="self_introduction">
-      大学でプロダクトデザイン・未来予測デザインを学び、2016年にクックパッド株式会社にUI/UXデザイナーとして入社。入社後、サービスの核となるレシピ投稿関連の画面設計や開発を。その後機械学習を使った料理判定機能「 料理きろく 」の開発、有料会員向け機能を中心に検索体験の改善に取り組みました。 現在は新規事業開発メンバーとしてデザインとフロントエンド開発をしています。 複数の職域・領域を横断し、常に人に寄り添ったものづくりを大事にしており 企業に勤める傍ら、経験を活かしウェブやアプリケーションの制作、開発、ブランディングにも取り組んでいます。
+      大学でプロダクトデザイン・未来予測デザインを学び、2016年にクックパッド株式会社にUI/UXデザイナーとして入社。入社後、サービスの核となるレシピ投稿関連の画面設計や開発を。その後機械学習を使った料理判定機能「 料理きろく 」の開発、有料会員向け機能を中心に検索体験の改善に取り組みました。 現在はたのしいキッチンbycookpadでデザインとフロントエンド開発をしています。 
     </p>
 
     <div className="career">
@@ -42,7 +42,7 @@ export default () =>(
     <h2>Works</h2>
 
     <div className="work_list">
-      <h3>たのしいキッチン(2020)</h3>
+      <h3>たのしいキッチン(2019-現在)</h3>
       <p className="works_description">
         サービスに関わるデザインすべてと、フロントエンド実装を担当しています。
       </p>
@@ -62,7 +62,7 @@ export default () =>(
       
       <div class="iframely-embed">
         <div class="iframely-responsive" style={{height: '140px'}}>
-          <a href="https://tabedori.jp/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftabedori.jp%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a>
+          <a href="https://tabedori.jp/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftabedori.jp%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
           </div>
       </div>
     </div>
@@ -75,7 +75,7 @@ export default () =>(
       
       <div class="iframely-embed">
         <div class="iframely-responsive" style={{height: '140px'}}>
-          <a href="https://cookpad.com/us" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fcookpad.com%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a>
+          <a href="https://cookpad.com/us" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fcookpad.com%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
           </div>
       </div>
     </div>
@@ -86,7 +86,7 @@ export default () =>(
         s-dev talksのイベント運営担当しています。ロゴやバナー、ウェブサイトなどデザイン周りは１人で行っています。
       </p>
       
-      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://sdevtalks.org/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fsdevtalks.org%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://sdevtalks.org/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fsdevtalks.org%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
     </div>
 
     <div className="work_list">
@@ -97,7 +97,7 @@ export default () =>(
       
       <div class="iframely-embed">
         <div class="iframely-responsive" style={{height: '140px'}}>
-          <a href="https://sharefull.com/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fsharefull.com%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a>
+          <a href="https://sharefull.com/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fsharefull.com%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
           </div>
       </div>
     </div>
@@ -107,7 +107,7 @@ export default () =>(
       <p className="works_description">
         ロゴ・LPのデザインを担当しました。
       </p>
-      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://fooddatabank.net/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ffooddatabank.net%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://fooddatabank.net/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ffooddatabank.net%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
     </div>
 
     <div className="work_list">
@@ -118,7 +118,7 @@ export default () =>(
       
       <div class="iframely-embed">
         <div class="iframely-responsive" style={{height: '140px'}}>
-          <a href="https://herp.cloud/index.html" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fherp.cloud%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a>
+          <a href="https://herp.cloud/index.html" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fherp.cloud%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
           </div>
       </div>
     </div>
@@ -129,7 +129,7 @@ export default () =>(
         サービス立ち上げ時に、ロゴやLP、スタジオ内で使われるノベルティなどをデザインしました。
       </p>
       
-      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://info.cookpad.com/pr/news/press_2017_1129" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Finfo.cookpad.com%2Fpr%2Fnews%2Fpress_2017_1129&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://info.cookpad.com/pr/news/press_2017_1129" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Finfo.cookpad.com%2Fpr%2Fnews%2Fpress_2017_1129&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
     </div>
 
     <div className="work_list">
@@ -140,7 +140,7 @@ export default () =>(
       
       <div class="iframely-embed">
         <div class="iframely-responsive" style={{height: '140px'}}>
-          <a href="https://my-best.com" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fmy-best.com%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a>
+          <a href="https://my-best.com" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fmy-best.com%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
           </div>
       </div>
     </div>
@@ -156,15 +156,15 @@ export default () =>(
     <ul>
       <li>・<a href="https://tigerspike.connpass.com/event/82821/?fbclid=IwAR1bWCICmPBLohOiP36qkXuYacyz2Raj3swJ66lQ4QkrOlW9NLafZQW08Yg"> Tigerspike UX Meetup #4 〜デザイナーの働きやすさとは〜</a> (Apr.2018 )</li>
       <li>
-        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://tigerspike.connpass.com/event/82821/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftigerspike.connpass.com%2Fevent%2F82821%2F%3Ffbclid%3DIwAR1bWCICmPBLohOiP36qkXuYacyz2Raj3swJ66lQ4QkrOlW9NLafZQW08Yg&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
+        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://tigerspike.connpass.com/event/82821/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftigerspike.connpass.com%2Fevent%2F82821%2F%3Ffbclid%3DIwAR1bWCICmPBLohOiP36qkXuYacyz2Raj3swJ66lQ4QkrOlW9NLafZQW08Yg&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
       </li>
       <li>・<a href="https://techconf.cookpad.com/2018/">Cookpad TechConf 2018</a> Feb.2018</li>
       <li>
-        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://techconf.cookpad.com/2018/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftechconf.cookpad.com%2F2018%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
+        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://techconf.cookpad.com/2018/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftechconf.cookpad.com%2F2018%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
       </li>
       <li>・<a href="https://blog.camph.net/event/service-development/">「サービス開発勉強会 〜クックパッドも利用する”最速”でアイデアを形にする方法〜</a> (Jun.2017)</li>
       <li>
-        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://blog.camph.net/event/service-development/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fblog.camph.net%2Fevent%2Fservice-development%2F&key=e14266707c84c7f6ec36b7fc4d57b3d2&iframe=card-small"></a></div></div>
+        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://blog.camph.net/event/service-development/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fblog.camph.net%2Fevent%2Fservice-development%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
       </li>
       <li>・<a href="https://linotice.tumblr.com/post/159708290264/20170418">IT業界でデザイナーとして働くってどんなこと？</a> (Feb.2017 )</li>
     </ul>
