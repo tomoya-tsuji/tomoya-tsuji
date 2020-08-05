@@ -42,6 +42,19 @@ export default () =>(
     <h2>Works</h2>
 
     <div className="work_list">
+      <h3>YOUTRUST(2020)</h3>
+      <p className="works_description">
+      副業・転職のキャリアSNS「YOUTRUST」のサービスデザインリニューアルを担当しました。<a href="https://twitter.com/cooktsuji/status/1289009047648100353">(Twitter)</a>
+      </p>
+      
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style={{height: '140px'}}>
+          <a href="https://https://youtrust.jp/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fyoutrust.jp/%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
+        </div>
+      </div>
+    </div>
+
+    <div className="work_list">
       <h3>たのしいキッチン(2019-現在)</h3>
       <p className="works_description">
         サービスに関わるデザインすべてと、フロントエンド実装を担当しています。
@@ -153,21 +166,41 @@ export default () =>(
     </div>
 
     <h2>Speaker</h2>
-    <ul>
-      <li>・<a href="https://tigerspike.connpass.com/event/82821/?fbclid=IwAR1bWCICmPBLohOiP36qkXuYacyz2Raj3swJ66lQ4QkrOlW9NLafZQW08Yg"> Tigerspike UX Meetup #4 〜デザイナーの働きやすさとは〜</a> (Apr.2018 )</li>
-      <li>
-        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://tigerspike.connpass.com/event/82821/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftigerspike.connpass.com%2Fevent%2F82821%2F%3Ffbclid%3DIwAR1bWCICmPBLohOiP36qkXuYacyz2Raj3swJ66lQ4QkrOlW9NLafZQW08Yg&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
-      </li>
-      <li>・<a href="https://techconf.cookpad.com/2018/">Cookpad TechConf 2018</a> Feb.2018</li>
-      <li>
-        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://techconf.cookpad.com/2018/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftechconf.cookpad.com%2F2018%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
-      </li>
-      <li>・<a href="https://blog.camph.net/event/service-development/">「サービス開発勉強会 〜クックパッドも利用する”最速”でアイデアを形にする方法〜</a> (Jun.2017)</li>
-      <li>
-        <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://blog.camph.net/event/service-development/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fblog.camph.net%2Fevent%2Fservice-development%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
-      </li>
-      <li>・<a href="https://linotice.tumblr.com/post/159708290264/20170418">IT業界でデザイナーとして働くってどんなこと？</a> (Feb.2017 )</li>
-    </ul>
+    <div className="work_list">
+      <h3>Tigerspike UX Meetup #4 〜デザイナーの働きやすさとは〜(Apr.2018)</h3>
+      <p className="works_description">
+        Tigerspikeさんにお声がけをいただき、Tigerspike UX Meetupというイベンドにて登壇いたしました。<a href="https://speakerdeck.com/1020tomoya/dezainagadong-kiyasuikutukupatudofalsehuan-jing-toha">(slide)</a>
+      </p>
+      
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://tigerspike.connpass.com/event/82821/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftigerspike.connpass.com%2Fevent%2F82821%2F%3Ffbclid%3DIwAR1bWCICmPBLohOiP36qkXuYacyz2Raj3swJ66lQ4QkrOlW9NLafZQW08Yg&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
+    </div>
+
+    <div className="work_list">
+      <h3>Cookpad TechConf 2018(Feb.2018)</h3>
+      <p className="works_description">
+        クックパッド主催のテックカンファレンスにて登壇いたしました。<a href="https://speakerdeck.com/1020tomoya/cookpad-creative-workflow">(slide)</a>
+      </p>
+      
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://techconf.cookpad.com/2018/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftechconf.cookpad.com%2F2018%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
+    </div>
+
+    <div className="work_list">
+      <h3>「サービス開発勉強会 〜クックパッドも利用する”最速”でアイデアを形にする方法〜(Jun.2017)</h3>
+      <p className="works_description">
+        CAMPHOR-さんにお呼びいただき、ワークショップなどを絡めた勉強会を開催しました。
+      </p>
+      
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://blog.camph.net/event/service-development/" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fblog.camph.net%2Fevent%2Fservice-development%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
+    </div>
+
+    <div className="work_list">
+      <h3>IT業界でデザイナーとして働くってどんなこと？(Feb.2017)</h3>
+      <p className="works_description">
+        デザイナー志望の学生を対象に開催された、クックパッド・ヤフー・ミクシィの3社合同イベントにて登壇しました。
+      </p>
+      <a href="https://linotice.tumblr.com/post/159708290264/20170418">https://linotice.tumblr.com/post/159708290264/20170418</a>      
+    </div>
+
 
     <h2>Contact</h2>
     <p>お仕事のご相談・ご依頼等はメールにてご連絡ください</p>

@@ -28,7 +28,6 @@ html {
     h3 {
       font-size: 16px;
       font-weight: bold;
-      // margin-bottom: 2px;
     }
 
     .work_list {
@@ -66,6 +65,14 @@ html {
         &:hover {
           color: $light_gray;
         }
+      }
+    }
+
+    a {
+      color: $blue;
+
+      &:visited {
+        color: $blue;
       }
     }
   }
