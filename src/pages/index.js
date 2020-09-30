@@ -55,6 +55,19 @@ export default () =>(
     </div>
 
     <div className="work_list">
+      <h3>食べチョクiOSアプリ(2020)</h3>
+      <p className="works_description">
+        農直通販アプリ食べチョクのiOSアプリUIを一部担当しました。
+      </p>
+      
+      <div class="iframely-embed">
+        <div class="iframely-responsive" style={{height: '140px'}}>
+          <a href="https://www.tabechoku.com/feature_articles/ios_app2007" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https://www.tabechoku.com/feature_articles/ios_app2007&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
+          </div>
+      </div>
+    </div>
+
+    <div className="work_list">
       <h3>たのしいキッチン(2019-現在)</h3>
       <p className="works_description">
         サービスに関わるデザインすべてと、フロントエンド実装を担当しています。
@@ -68,7 +81,7 @@ export default () =>(
     </div>
 
     <div className="work_list">
-      <h3>たべドリ(2018)</h3>
+      <h3>たべドリ(2018-2019)</h3>
       <p className="works_description">
         コンセプトの明確化からUIデザインまでプロトタイプを中心に担当しました。
       </p>
@@ -88,7 +101,7 @@ export default () =>(
       
       <div class="iframely-embed">
         <div class="iframely-responsive" style={{height: '140px'}}>
-          <a href="https://cookpad.com/us" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fcookpad.com%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
+          <a href="https://cookpad.com" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fcookpad.com%2F&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
           </div>
       </div>
     </div>
@@ -163,6 +176,16 @@ export default () =>(
       <p className="works_description">
         プロダクトリリースには至らなかった新規サービス開発や、一部公開できないプロダクトもございます。
       </p>
+    </div>
+
+    <h2>Blog</h2>
+    <div className="work_list">
+      <h3>「キッチンが主役」のデザイン</h3>
+      <p className="works_description">
+        たのしいキッチンの世界観を作るため日々考えていることをまとめました。
+      </p>
+      
+      <div class="iframely-embed"><div class="iframely-responsive" style={{height: '140px'}}><a href="https://note.com/astrotom/n/n674777b04f39" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https://note.com/astrotom/n/n674777b04f39&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a></div></div>
     </div>
 
     <h2>Speaker</h2>
