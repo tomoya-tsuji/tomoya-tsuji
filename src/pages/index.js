@@ -54,7 +54,7 @@ export default () =>(
       </div>
     </div>
 
-    <div className="work_list">
+    {/* <div className="work_list">
       <h3>食べチョクiOSアプリ(2020)</h3>
       <p className="works_description">
         農直通販アプリ食べチョクのiOSアプリUIを一部担当しました。
@@ -65,7 +65,7 @@ export default () =>(
           <a href="https://www.tabechoku.com/feature_articles/ios_app2007" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https://www.tabechoku.com/feature_articles/ios_app2007&key=e34335915f5dee38cdaf81343ac54ca8&iframe=card-small"></a>
           </div>
       </div>
-    </div>
+    </div> */}
 
     <div className="work_list">
       <h3>たのしいキッチン(2019-現在)</h3>
@@ -221,7 +221,7 @@ export default () =>(
       <p className="works_description">
         デザイナー志望の学生を対象に開催された、クックパッド・ヤフー・ミクシィの3社合同イベントにて登壇しました。
       </p>
-      <a href="https://linotice.tumblr.com/post/159708290264/20170418">https://linotice.tumblr.com/post/159708290264/20170418</a>      
+      <a href="https://linotice.tumblr.com/post/159708290264/20170418">イベントレポート記事はこちら</a>      
     </div>
 
 
