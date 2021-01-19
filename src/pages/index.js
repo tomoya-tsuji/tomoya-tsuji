@@ -9,9 +9,9 @@ export default () =>(
   <div>
     <Helmet>
       <meta charSet="utf-8" />
-      <title>tomoya-tsuji</title>
+      <title>TOMOYA TSUJI | Designer</title>
       <link rel="canonical" href="http://mysite.com/example" />
-      <meta name="description" content="UI/UXデザイナー。Tomoya Tsujiのポートフォリオサイトです。よかったら覗いてみてください。"></meta>
+      <meta name="description" content="Tomoya Tsuji | DigitalProductDesigner"></meta>
       <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta>
       <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700&amp;subset=latin-ext" rel="stylesheet"></link>
