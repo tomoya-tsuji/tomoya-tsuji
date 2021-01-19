@@ -46,6 +46,12 @@ html {
       }
     }
 
+    .partners {
+      &_list {
+        padding: 0;
+      }
+    }
+
     .name {
       margin-bottom: 6px;
     }
