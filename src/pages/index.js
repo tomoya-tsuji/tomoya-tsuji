@@ -28,6 +28,7 @@ export default () =>(
     <p className="self_introduction">
       大学でプロダクトデザイン・未来予測デザインを学び、2016年にクックパッド株式会社にUI/UXデザイナーとして入社。入社後、サービスの核となるレシピ投稿関連の画面設計や開発を。その後機械学習を使った料理判定機能「 料理きろく 」の開発、有料会員向け機能を中心に検索体験の改善に取り組みました。 現在はたのしいキッチンbycookpadでデザインとフロントエンド開発をしています。 
     </p>
+    <a href="https://www.instagram.com/tomoya_tsuji/">instagram</a>
 
     <div className="career">
       <p><span className="years">1993</span> BORN IN KYOTO, JAPAN</p>
